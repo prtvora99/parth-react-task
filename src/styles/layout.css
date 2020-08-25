@@ -1,0 +1,18 @@
+.header{
+    box-shadow: 0 10px 6px -6px #7777772e;
+    padding: 0px 25px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header img{
+    cursor: pointer;
+}
+
+.header .title{
+    margin: 0;
+    color: #444;
+}
+
